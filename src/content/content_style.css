@@ -1,0 +1,7 @@
+.md-content p {
+  padding: 0px;
+  margin: 0px;
+}
+.md-content p img {
+  width: 100%;
+}
